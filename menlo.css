@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  background-image:  "https://images.pexels.com/photos/632075/pexels-photo-632075.jpeg?cs=srgb&dl=pexels-damien-right-632075.jpg&fm=jpg"
+  background-image:  url("https://images.pexels.com/photos/632075/pexels-photo-632075.jpeg?cs=srgb&dl=pexels-damien-right-632075.jpg&fm=jpg")
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
